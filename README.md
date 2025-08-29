@@ -295,8 +295,8 @@ brightness_range = [0.8, 1.2]
 
 - **Author**: Krishna Yadav
 - **Email**: krishnayadav08012005@gmail.com
-- **LinkedIn**: your-linkedin-profile]](https://www.linkedin.com/in/krishna-yadav-a23163271/
-- **Project Link**: [https://github.com/yourusername/skin-cancer-classification]
+- **LinkedIn**: https://www.linkedin.com/in/krishna-yadav-a23163271/
+- **Project Link**: https://github.com/yourusername/skin-cancer-classification
 
 ---
 
